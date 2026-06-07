@@ -1,0 +1,3 @@
+- Revisar el uso de ls.
+- Practicar comodines hoy por la tarde.
+- Estudiar para el examen de comandos de terminal.

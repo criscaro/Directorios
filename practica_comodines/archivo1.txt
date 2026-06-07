@@ -1,0 +1,15 @@
+Línea 1: Bienvenidos a la práctica de comandos de Linux.
+Línea 2: En esta guía aprenderás a usar comodines.
+Línea 3: Los comodines (*, ?, []) te permiten buscar archivos fácilmente.
+Línea 4: Por ejemplo, el asterisco (*) coincide con cualquier cadena de caracteres.
+Línea 5: El signo de interrogación (?) coincide con un solo carácter.
+Línea 6: Los corchetes [] coinciden con cualquier carácter dentro de ellos.
+Línea 7: También practicaremos con el comando 'file'.
+Línea 8: El comando 'file' te permite conocer el tipo de un archivo.
+Línea 9: No se basa únicamente en la extensión, sino en su contenido (magic numbers).
+Línea 10: Por último, usaremos el comando 'head'.
+Línea 11: 'head' muestra las primeras líneas de un archivo de texto.
+Línea 12: Por defecto muestra las primeras 10 líneas.
+Línea 13: Puedes cambiar este número con la opción '-n'.
+Línea 14: Por ejemplo: 'head -n 5 nombre_archivo.txt'.
+Línea 15: ¡Éxito en tu aprendizaje!

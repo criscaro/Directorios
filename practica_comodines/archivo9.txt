@@ -1,0 +1,3 @@
+Línea A: Archivo de prueba número 9.
+Línea B: Útil para practicar búsquedas por rango numérico.
+Línea C: Fin del archivo.

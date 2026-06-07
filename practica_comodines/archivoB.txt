@@ -1,0 +1,12 @@
+Línea 1: Archivo B de prueba.
+Línea 2: Utilizado para globbing y head.
+Línea 3: Línea de relleno.
+Línea 4: Línea de relleno.
+Línea 5: Línea de relleno.
+Línea 6: Línea de relleno.
+Línea 7: Línea de relleno.
+Línea 8: Línea de relleno.
+Línea 9: Línea de relleno.
+Línea 10: Línea de relleno.
+Línea 11: Línea de relleno.
+Línea 12: Fin de archivo B.

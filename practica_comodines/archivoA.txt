@@ -1,0 +1,10 @@
+Línea 1: Archivo identificado con la letra A (mayúscula).
+Línea 2: Contiene información de prueba.
+Línea 3: Los corchetes pueden buscar rangos como [A-Z].
+Línea 4: Este archivo debería coincidir al buscar letras mayúsculas.
+Línea 5: Línea intermedia.
+Línea 6: Línea intermedia 2.
+Línea 7: Línea intermedia 3.
+Línea 8: Línea intermedia 4.
+Línea 9: Línea intermedia 5.
+Línea 10: Fin de archivo A.

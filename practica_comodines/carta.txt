@@ -1,0 +1,6 @@
+Querido estudiante,
+Espero que este ejercicio te resulte útil para dominar el uso de la terminal.
+La consola de comandos es una herramienta sumamente poderosa para cualquier profesional.
+¡Sigue practicando!
+Atentamente,
+Tu Profesor.
